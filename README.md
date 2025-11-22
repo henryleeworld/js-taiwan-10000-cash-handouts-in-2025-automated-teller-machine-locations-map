@@ -11,8 +11,8 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/PU7deEQ.png)
+![](https://i.imgur.com/hIbZQ81.png)
 > 超過 2.8 萬部貼有識別貼紙的 ATM 提款機，24 小時全天候服務民眾領取 1 萬元現金
 
-![](https://i.imgur.com/lsmnCfk.png)
+![](https://i.imgur.com/KDuOLlJ.png)
 > 唯一的限制就是一定要本人領取，如果未滿 13 歲可由父母或監護人代領
